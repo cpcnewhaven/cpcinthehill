@@ -1,0 +1,115 @@
+#logo h1 a {
+	background:url(https://www.csmedia1.com/cpcinthehill.org/logo.png) no-repeat
+}
+
+#logo h1 a {
+	display: block;
+	position: absolute;
+	height: 115px;
+	width: 115px;
+	margin-top: 5px;
+	left: 20px;
+}
+
+@media 
+(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
+    #logo h1 a {
+		background: url(https://www.csmedia1.com/cpcinthehill.org/logo-ret.png) no-repeat 0 0;
+		background-size:115px auto;
+		
+	}
+}
+
+/*hide dd's*/
+header #nav li ul {
+	display: none !important;
+}
+
+/*campus selector*/
+
+body {
+	/*border-top: 33px solid #dc7653;*/
+}
+
+.chapters {
+	display: block;
+	width: 368px;
+	display: block;
+	/* margin-right: auto; */
+	margin-top: -23px;
+	position: absolute;
+	margin-left: 50%;
+	left: -176px;
+}
+
+.chapters h5 {
+	width: 15ypx;
+	height: 11px;
+	text-transform: uppercase;
+	font-size: 11px;
+	color: #1B638E;
+	display: inline-block;
+}
+
+a.chapter-switcher {
+	font-size: 11px;
+	color: #bfb2ac;
+	display: inline-block;
+	width: 195px;
+	height: 23px;
+	background: #1B638E;
+	border-radius: 3px;
+	margin-top: -5px;
+	line-height: 23px;
+	margin-left: 5px;
+	text-align: left;
+	padding-left: 10px;
+}
+
+a.chapter-switcher:hover {
+	text-decoration: none;
+}
+
+.chapter-inner {
+	display: none;
+}
+
+.chapter-inner {
+	position: absolute;
+	width: 220px;
+	height: 60px;
+	background: #dc7653;
+	margin-left: 140px;
+	z-index: 1;
+	padding-top: 10px;
+	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+}
+
+.chapter-inner a {
+	color: #1B638E;
+	display: block;
+	margin-left: 10px;
+	width: 190px;
+	height: 25px;
+	font-size: 11px;
+	font-weight: 600;
+	line-height: 25px;
+	padding-left: 10px;
+}
+
+.chapter-inner a:hover {
+	text-decoration: none;
+	background: #bfb2ac;
+}
+
+.black-tri {
+	display: block;
+	position: absolute;
+	border-top: 6px solid #bfb2ac;
+	border-right: 5px solid transparent;
+	border-left: 5px solid transparent;
+	height: 0px;
+	width: 0px;
+	margin: -14px 0px 0px 177px;
+}

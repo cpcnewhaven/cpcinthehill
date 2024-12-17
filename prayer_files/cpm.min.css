@@ -1,0 +1,65 @@
+.tribe-accordion-row.closed .tribe-accordion-content,.cpmGallery{display:none}
+
+div[data-service="city"],
+div[data-service="ccb"]{min-height:50px;background:#efefef;border-radius:6px;border:2px solid #ccc;text-align:center;margin-bottom:25px}
+
+div[data-service="city"].loaded,
+div[data-service="ccb"].loaded{background:none;border:none;text-align:left}.city>h3,.ccb>h3{position:relative;height:48px;border-radius:5px;margin-bottom:23px;padding:0 0 0 50px !important;font-size:18px!important}
+
+.city>h3:before,
+.ccb>h3:before{display:block;content:'';background:url(img/city_icon.png) no-repeat;width:26px;height:28px;position:absolute;left:10px;top:10px}
+
+.city h3 a,.ccb h3 a{background:rgba(255,255,255,0.25);font-size:13px;font-family:hevletica,arial,sans-serif;color:#fff!important;text-decoration:none;height:33px;line-height:33px;display:inline-block;padding:0 12px;text-align:center;border-radius:4px;position:absolute;right:8px;top:7px}
+
+.city h3 a:hover,
+.ccb h3 a:hover{text-decoration:underline;background:rgba(255,255,255,0.4)}
+
+.city h4,.ccb h4{font-size:16px!important;margin:0 0 5px !important;padding:0!important}
+
+.city h4 a,
+.ccb h4 a,
+.city.events .stamp,
+.ccb .stamp,
+.city.events .month,
+.ccb .month,
+.city.events .day,
+.ccb .day{font-weight:700;text-decoration:none;margin:0!important;padding:0!important}
+
+.city h4 a:hover,
+.ccb h4 a:hover{text-decoration:underline}
+
+.city.events h4 .times,
+.ccb h4 .times{font-size:13px!important}
+
+.city.events h4 .times span,
+.ccb h4 .times span{padding:0 5px !important}
+
+.city div,
+.ccb div{padding:0!important;margin-bottom:15px!important}
+
+.city.events div div,
+.ccb div div{display:inline-block;width:85%;vertical-align:top;margin-left:12px!important;margin-top:3px}
+
+.mobile .city.events div div,
+.mobile .ccb div div{width:75%}
+
+.city div p,
+.ccb div p{padding:0!important;margin-bottom:2em!important}
+
+.city.events .stamp,
+.ccb .stamp{display:inline-block;width:42px;height:46px;border-width:1px;border-style:solid;border-radius:5px;position:relative;box-shadow:0 1px 1px rgba(0,0,0,0.09);-moz-box-shadow:0 1px 1px rgba(0,0,0,0.09);-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.09)}
+
+.city .stamp .month,
+.ccb .stamp .month{font-size:12px!important;font-family:Helvetica,arial,sans-serif!important;display:block;text-align:center;position:relative;top:7px}
+
+.city .stamp .day,
+.ccb .stamp .day{display:block;text-align:center;font:bold 22px helvetica,arial,sans-serif !important;position:relative;top:6px}
+
+.city div:last-child p,
+.ccb div:last-child p{margin-bottom:0!important}
+
+.city h4 a:hover,
+.ccb h4 a:hover{text-decoration:underline!important}
+
+.city h4.solo,
+.ccb h4.solo {line-height:45px!important}
