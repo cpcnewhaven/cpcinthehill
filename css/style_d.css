@@ -1,2 +1,124 @@
-body{background:url(../img/d/body_bg.jpg) repeat}.link-filter h1,.link-filter h2,.link-filter h3,.link-filter h4,.link-filter h5,.link-filter h6{color:#e9dfda}.link-filter{color:#bfb2ac}a{color:#dc7653;text-decoration:none}.link-filter a{color:#dc7653;text-decoration:none}.link-filter a:hover{color:#a6644d;text-decoration:none}.link-filter blockquote{color:#8a7c76}input:focus,a:focus{outline-color:#fff}.search-box #search input[type="text"]{border:1px solid #0f0d0c;color:#bfb2ac;background:none;box-shadow:0px 1px 1px 0px #534b48;-moz-box-shadow:0px 1px 1px 0px #534b48;-webkit-box-shadow:0px 1px 1px 0px #534b48}.search-box #search input[type="submit"]{background:url(../img/d/search_icon.png) no-repeat}.search-box #search input[type="submit"]:hover{background-position:0 -11px}#search a.button:hover,input[type="submit"]:hover{background:#dc7653}#logo h1 a{background:url(../img/d/logo.png) no-repeat}#time-widget p{color:#a2938c}#map-link a{background:url(../img/d/directions_ico.png) no-repeat}#map-link a:hover{background-position:0 -31px}.border-span{width:960px;height:auto;margin-left:auto;margin-right:auto;border-top:1px solid #1b1d1b;border-bottom:1px solid #4c4440}#nav li a{color:#bfb2ac}#nav li a:hover,#nav li.current a{color:#dc7653}header #nav li ul{background:rgba(167,153,149,0.93)}header #nav li ul:after{border-bottom:9px solid rgba(167,153,149,0.93)}header #nav li ul li a,header #nav li.current li a,header #nav li li a,header #nav li:hover ul li a{color:#fff}header #nav li ul li a:hover{color:#fff;background:rgba(220,118,83,0.92)}header #nav li ul{background:rgba(167,153,149,0.93)}header #nav li ul:after{border-bottom:9px solid rgba(167,153,149,0.93)}header #nav li ul li a,header #nav li.current li a,header #nav li li a,header #nav li:hover ul li a{color:#fff}header #nav li ul li a:hover{color:#fff;background:rgba(220,118,83,0.92)}#side_nav a:hover{color:#dc7653}#side_nav_toplevel{color:#e9dfda}.side_nav_level1 li a{color:#bfb2ac}.side_nav_level1 li.current li a{color:#8a7c76}.side_nav_level1 li li.current a{color:#8a7c76}.side_nav_level1 li.current a{background:#dc7653;color:#362f2c}.side_nav_level1 li.current a:hover{background:#dc7653;color:#362f2c !important}.side_nav_level1 li.current li a:hover{background:none;color:#dc7653 !important}h1.page-title{color:#e9dfda}.link-filter p{color:#bfb2ac}.link-filter blockquote p{color:#8a7c76}#giving-form input[type="submit"]{background:#dc7653;color:#fff}#giving-form input[type="text"]{border:1px solid #ccc}.blog-wrap h2 a{color:#dc7653}.blog-info{color:#bfb2ac}.blog-info a,.blog-meta a{color:#dc7653}.blog-wrap h2 a:hover{text-decoration:underline;color:#a6644d}.blog-info a:hover,.blog-meta a:hover{color:#a6644d}.blog-summary p{color:#bfb2ac}.blog-summary a{color:#dc7653}.blog-meta{color:#bfb2ac}.sorting h4{color:#e9dfda}#blog-post .post-date,.post-author,.post-tags{color:#bfb2ac}.post-date a,.post-author a,.post-tags a{color:#dc7653}.blog-share{background:#e9dfda;border:1px solid #CBCBC9;color:#3e3d3c}a.blog-share:hover{background:#fff;background:linear-gradient(to bottom, #fff 0%, #F5F5F3 100%);background:-moz-linear-gradient(top, #fff 0%, #F5F5F3 100%);background:-ms-linear-gradient(top, #fff 0%, #F5F5F3 100%);background:-o-linear-gradient(top, #fff 0%, #F5F5F3 100%);background:-webkit-linear-gradient(top, #fff 0%, #F5F5F3 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #fff), color-stop(100%, #F5F5F3));-webkit-box-shadow:#DBDBD9;-moz-box-shadow:#DBDBD9;-ms-box-shadow:#DBDBD9;-o-box-shadow:#DBDBD9;box-shadow:#DBDBD9;color:#3e3d3c}.blog-share.st_sharethis_custom{color:#4e4c4a}.post-share{background:#e9dfda;color:#3e3d3c}a.post-share:hover{background:#dc7653;color:#3e3d3c}h4.comment-count,h4.comment-leave{color:#e9dfda}.comment{color:#e9dfda;background:#6f635c;border:1px solid #6f635c}.comment-author,.comment-author a,.comment-content p,.comment-fields label{color:#e9dfda}.comment-fields{background:#6f635c}#comment-name,#comment-email,#comment-comment{-webkit-box-shadow:inset 0 1px 2px #f4f4f3;-moz-box-shadow:inset 0 1px 2px #f4f4f3;-ms-box-shadow:inset 0 1px 2px #f4f4f3;-o-box-shadow:inset 0 1px 2px #f4f4f3;box-shadow:inset 0 1px 2px #f4f4f3;background:#fff}#comment-submit{background:#dc7653;color:#fff;font-family:#bfb2ac}#comment-submit:hover{opacity:0.8}#cal-switch li a{color:#6f635c;background-color:#e9dfda}#cal-switch li.current a{color:#e9dfda;background-color:#6f635c}#cal-switch li a:after{border-top:5px solid #e9dfda}#cal-switch li.current a:after{border-top:5px solid #6f635c}.calendar{background:#fff}.calendar caption{background:#6f635c;color:#fff}#events-calendar tr{border-left:1px solid #e7e5e2;border-right:1px solid #e7e5e2}.calendar td{border:1px solid #e7e5e2}.calendar th{color:#a79995}.calendar td li a{color:#443929}.calendar td li a:hover{color:#d48f16}.linked-day a,.calendar td span{color:#a79995}.calendar #pmonth,.calendar #nmonth{background:#bfb2ac;border:1px solid #e9dfda}a.category-btn{background:#bfb2ac;border:1px solid #e9dfda;color:#fff;z-index:500}.category-box{-webkit-box-shadow:0 3px 10px #888;-moz-box-shadow:0 3px 10px #888;-ms-box-shadow:0 3px 10px #888;-o-box-shadow:0 3px 10px #888;box-shadow:0 3px 10px #888;background:#fff}.cateogry-box p,.category-box li{color:#43413c}.month-label{background:#6f635c;color:#e9dfda}.listcategories{background:#6f635c}.listcategories h3{color:#e9dfda}.listcategories p{color:#3d3c37}.event-block .day{background:#6f635c;color:#bfb2ac}.event-block .title a{color:#dc7653}.event-block .time-row{color:#bfb2ac}a.event-map-btn{-webkit-box-shadow:0 1px 4px #e8e7e4;-moz-box-shadow:0 1px 4px #e8e7e4;-ms-box-shadow:0 1px 4px #e8e7e4;-o-box-shadow:0 1px 4px #e8e7e4;box-shadow:0 1px 4px #e8e7e4;color:#6A6965;background:#fff}#event .event-meta li.event-page-date,#event .event-meta li.event-time,#event .event-meta li.event-page-date,.event-page-location,.event-page-coordinator,#event .event-coordinator-email{color:#bfb2ac}.event-coordinator-email a{color:#dc7653}.event-coordinator-email a:hover{color:#a6644d}#event-day .link-filter h3{color:#bfb2ac}#sermon-switch li a{color:#bfb2ac;background-color:#6f635c}#sermon-series img{-webkit-box-shadow:0 0px 4px #1f0d0c;-moz-box-shadow:0 0px 4px #1f0d0c;-ms-box-shadow:0 0px 4px #1f0d0c;-o-box-shadow:0 0px 4px #1f0d0c;box-shadow:0 0px 4px #1f0d0c}#sermon-switch li.current a{color:#fff;background-color:#bfb2ac}#sermon-switch li a:after{border-top:5px solid #6f635c}#sermon-switch li.current a:after{border-top:5px solid #bfb2ac}.sermon-data{color:#bfb2ac}.sermon-data a{color:#dc7653}.sermon-data a:hover{color:#a6644d}.sorting span.select{background:#e9dfda;border:1px solid #e8e8e5;color:#4b4740}.sorting span.select:after{border-top:6px solid #424242}.sorting.sermon-sort h4{color:#e9dfda}.sermon-listen-btn{border:1px solid #6f635c;background:#e9dfda;color:#3e3d3c}.sermon-listen-btn:hover{background:#dc7653;color:#fff}#current-view .series-content,#ajax-view .series-content{color:#bfb2ac}#pagination a{border:1px solid #6f635c;color:#9e785d}#pagination a.current{background:#dc7653;color:#fff}#pagination a.previous,#pagination a.next{border:1px solid #4e4c4a;background:#6f635c}#pagination a.previous:after{border-right:7px solid #fff}#pagination a.next:after{border-left:7px solid #fff}.author-info a{color:#dc7653}.church-info p,.author-info p{color:#a79995}#social .youtube{height:38px}
+body{background:url(/assets/body_bg.jpg) repeat}
+.link-filter h1,.link-filter h2,.link-filter h3,.link-filter h4,.link-filter h5,.link-filter h6{color:#e9dfda}
+.link-filter{color:#bfb2ac}
+a{color:#dc7653;text-decoration:none}
+.link-filter a{color:#dc7653;text-decoration:none}
+.link-filter a:hover{color:#a6644d;text-decoration:none}
+.link-filter blockquote{color:#8a7c76}
+input:focus,a:focus{outline-color:#fff}
+.search-box #search input[type="text"]{border:1px solid #0f0d0c;color:#bfb2ac;background:none;box-shadow:0px 1px 1px 0px #534b48;-moz-box-shadow:0px 1px 1px 0px #534b48;-webkit-box-shadow:0px 1px 1px 0px #534b48}
+.search-box #search input[type="submit"]{background:url(/assets/search_icon.png) no-repeat}
+.search-box #search input[type="submit"]:hover{background-position:0 -11px}
+#search a.button:hover,input[type="submit"]:hover{background:#dc7653}
+#logo h1 a{background:url(/assets/logo.png) no-repeat}
+#time-widget p{color:#a2938c}
+#map-link a{background:url(/assets/directions_ico.png) no-repeat}
+#map-link a:hover{background-position:0 -31px}
+.border-span{width:960px;height:auto;margin-left:auto;margin-right:auto;border-top:1px solid #1b1d1b;border-bottom:1px solid #4c4440}
+#nav li a{color:#bfb2ac}
+#nav li a:hover,#nav li.current a{color:#dc7653}
+header #nav li ul{background:rgba(167,153,149,0.93)}
+header #nav li ul:after{border-bottom:9px solid rgba(167,153,149,0.93)}
+header #nav li ul li a,header #nav li.current li a,header #nav li li a,header #nav li:hover ul li a{color:#fff}
+header #nav li ul li a:hover{color:#fff;background:rgba(220,118,83,0.92)}
+header #nav li ul{background:rgba(167,153,149,0.93)}
+header #nav li ul:after{border-bottom:9px solid rgba(167,153,149,0.93)}
+header #nav li ul li a,header #nav li.current li a,header #nav li li a,header #nav li:hover ul li a{color:#fff}
+header #nav li ul li a:hover{color:#fff;background:rgba(220,118,83,0.92)}
+#side_nav a:hover{color:#dc7653}
+#side_nav_toplevel{color:#e9dfda}
+.side_nav_level1 li a{color:#bfb2ac}
+.side_nav_level1 li.current li a{color:#8a7c76}
+.side_nav_level1 li li.current a{color:#8a7c76}
+.side_nav_level1 li.current a{background:#dc7653;color:#362f2c}
+.side_nav_level1 li.current a:hover{background:#dc7653;color:#362f2c !important}
+.side_nav_level1 li.current li a:hover{background:none;color:#dc7653 !important}
+h1.page-title{color:#e9dfda}.link-filter p{color:#bfb2ac}
+.link-filter blockquote p{color:#8a7c76}
+#giving-form input[type="submit"]{background:#dc7653;color:#fff}
+#giving-form input[type="text"]{border:1px solid #ccc}
+.blog-wrap h2 a{color:#dc7653}
+.blog-info{color:#bfb2ac}
+.blog-info a,.blog-meta a{color:#dc7653}
+.blog-wrap h2 a:hover{text-decoration:underline;color:#a6644d}
+.blog-info a:hover,.blog-meta a:hover{color:#a6644d}
+.blog-summary p{color:#bfb2ac}
+.blog-summary a{color:#dc7653}.blog-meta{color:#bfb2ac}
+.sorting h4{color:#e9dfda}
+#blog-post .post-date,.post-author,.post-tags{color:#bfb2ac}
+.post-date a,.post-author a,.post-tags a{color:#dc7653}
+.blog-share{background:#e9dfda;border:1px solid #CBCBC9;color:#3e3d3c}
+a.blog-share:hover{
+    background:#fff;
+    background:linear-gradient(to bottom, #fff 0%, #F5F5F3 100%);
+    background:-moz-linear-gradient(top, #fff 0%, #F5F5F3 100%);
+    background:-ms-linear-gradient(top, #fff 0%, #F5F5F3 100%);
+    background:-o-linear-gradient(top, #fff 0%, #F5F5F3 100%);
+    background:-webkit-linear-gradient(top, #fff 0%, #F5F5F3 100%);
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #fff), color-stop(100%, #F5F5F3));
+    -webkit-box-shadow:#DBDBD9;
+    -moz-box-shadow:#DBDBD9;
+    -ms-box-shadow:#DBDBD9;
+    -o-box-shadow:#DBDBD9;
+    box-shadow:#DBDBD9;
+    color:#3e3d3c
+}
+.blog-share.st_sharethis_custom{color:#4e4c4a}
+.post-share{background:#e9dfda;color:#3e3d3c}
+a.post-share:hover{background:#dc7653;color:#3e3d3c}
+h4.comment-count,h4.comment-leave{color:#e9dfda}
+.comment{color:#e9dfda;background:#6f635c;border:1px solid #6f635c}
+.comment-author,.comment-author a,.comment-content p,.comment-fields label{color:#e9dfda}
+.comment-fields{background:#6f635c}
+#comment-name,#comment-email,#comment-comment{-webkit-box-shadow:inset 0 1px 2px #f4f4f3;-moz-box-shadow:inset 0 1px 2px #f4f4f3;-ms-box-shadow:inset 0 1px 2px #f4f4f3;-o-box-shadow:inset 0 1px 2px #f4f4f3;box-shadow:inset 0 1px 2px #f4f4f3;background:#fff}
+#comment-submit{background:#dc7653;color:#fff;font-family:#bfb2ac}
+#comment-submit:hover{opacity:0.8}
+#cal-switch li a{color:#6f635c;background-color:#e9dfda}
+#cal-switch li.current a{color:#e9dfda;background-color:#6f635c}
+#cal-switch li a:after{border-top:5px solid #e9dfda}
+#cal-switch li.current a:after{border-top:5px solid #6f635c}
+.calendar{background:#fff}
+.calendar caption{background:#6f635c;color:#fff}
+#events-calendar tr{border-left:1px solid #e7e5e2;border-right:1px solid #e7e5e2}
+.calendar td{border:1px solid #e7e5e2}.calendar th{color:#a79995}
+.calendar td li a{color:#443929}
+.calendar td li a:hover{color:#d48f16}
+.linked-day a,.calendar td span{color:#a79995}
+.calendar #pmonth,.calendar #nmonth{background:#bfb2ac;border:1px solid #e9dfda}
+a.category-btn{background:#bfb2ac;border:1px solid #e9dfda;color:#fff;z-index:500}
+.category-box{-webkit-box-shadow:0 3px 10px #888;-moz-box-shadow:0 3px 10px #888;-ms-box-shadow:0 3px 10px #888;-o-box-shadow:0 3px 10px #888;box-shadow:0 3px 10px #888;background:#fff}
+.cateogry-box p,.category-box li{color:#43413c}
+.month-label{background:#6f635c;color:#e9dfda}
+.listcategories{background:#6f635c}
+.listcategories h3{color:#e9dfda}
+.listcategories p{color:#3d3c37}
+.event-block .day{background:#6f635c;color:#bfb2ac}
+.event-block .title a{color:#dc7653}.event-block .time-row{color:#bfb2ac}
+a.event-map-btn{-webkit-box-shadow:0 1px 4px #e8e7e4;-moz-box-shadow:0 1px 4px #e8e7e4;-ms-box-shadow:0 1px 4px #e8e7e4;-o-box-shadow:0 1px 4px #e8e7e4;box-shadow:0 1px 4px #e8e7e4;color:#6A6965;background:#fff}
+#event .event-meta li.event-page-date,#event .event-meta li.event-time,#event .event-meta li.event-page-date,.event-page-location,.event-page-coordinator,#event .event-coordinator-email{color:#bfb2ac}
+.event-coordinator-email a{color:#dc7653}
+.event-coordinator-email a:hover{color:#a6644d}
+#event-day .link-filter h3{color:#bfb2ac}
+#sermon-switch li a{color:#bfb2ac;background-color:#6f635c}
+#sermon-series img{-webkit-box-shadow:0 0px 4px #1f0d0c;-moz-box-shadow:0 0px 4px #1f0d0c;-ms-box-shadow:0 0px 4px #1f0d0c;-o-box-shadow:0 0px 4px #1f0d0c;box-shadow:0 0px 4px #1f0d0c}
+#sermon-switch li.current a{color:#fff;background-color:#bfb2ac}
+#sermon-switch li a:after{border-top:5px solid #6f635c}
+#sermon-switch li.current a:after{border-top:5px solid #bfb2ac}
+.sermon-data{color:#bfb2ac}
+.sermon-data a{color:#dc7653}
+.sermon-data a:hover{color:#a6644d}
+.sorting span.select{background:#e9dfda;border:1px solid #e8e8e5;color:#4b4740}
+.sorting span.select:after{border-top:6px solid #424242}
+.sorting.sermon-sort h4{color:#e9dfda}
+.sermon-listen-btn{border:1px solid #6f635c;background:#e9dfda;color:#3e3d3c}
+.sermon-listen-btn:hover{background:#dc7653;color:#fff}
+#current-view .series-content,#ajax-view .series-content{color:#bfb2ac}
+#pagination a{border:1px solid #6f635c;color:#9e785d}
+#pagination a.current{background:#dc7653;color:#fff}
+#pagination a.previous,#pagination a.next{border:1px solid #4e4c4a;background:#6f635c}
+#pagination a.previous:after{border-right:7px solid #fff}
+#pagination a.next:after{border-left:7px solid #fff}
+.author-info a{color:#dc7653}
+.church-info p,.author-info p{color:#a79995}
+#social .youtube{height:38px}
 /*# sourceMappingURL=style_d.css.map */

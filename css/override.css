@@ -1,5 +1,5 @@
 #logo h1 a {
-	background:url(https://www.csmedia1.com/cpcinthehill.org/logo.png) no-repeat
+	background:url(/assets/logo.png) no-repeat
 }
 
 #logo h1 a {
@@ -14,7 +14,7 @@
 @media 
 (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
     #logo h1 a {
-		background: url(https://www.csmedia1.com/cpcinthehill.org/logo-ret.png) no-repeat 0 0;
+		background: url(/assets/logo-ret.png) no-repeat 0 0;
 		background-size:115px auto;
 		
 	}
