@@ -112,12 +112,24 @@ q:before,q:after{
   float:right
 }
 
+/*
 @font-face{
   font-family:'fontello';
   src:url("https://cpmlightsail2.com/fonts/fontello.eot?77219085");
   src:url("https://cpmlightsail2.com/fonts/fontello.eot?77219085#iefix") format("embedded-opentype"),url("https://cpmlightsail2.com/fonts/fontello.woff?77219085") format("woff"),url("https://cpmlightsail2.com/fonts/fontello.ttf?77219085") format("truetype"),url("https://cpmlightsail2.com/fonts/fontello.svg?77219085#fontello") format("svg");
   font-weight:normal;
   font-style:normal
+}
+*/
+
+@font-face{
+  font-family: 'fontello';
+  src: url('/font/fontello.eot?62636931');
+  src: url('/font/fontello.eot?62636931#iefix') format('embedded-opentype'),
+       url('/font/fontello.woff2?62636931') format('woff2'),
+       url('/font/fontello.woff?62636931') format('woff'),
+       url('/font/fontello.ttf?62636931') format('truetype'),
+       url('/font/fontello.svg?62636931#fontello') format('svg');
 }
 
 [class^="icon-"]:before,[class*=" icon-"]:before{
